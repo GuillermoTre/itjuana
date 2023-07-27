@@ -13,6 +13,7 @@ You may assume that each input would have exactly one solution, and you may not 
 same element twice.
 
 ### Steps 
-Run npm install to install the required libraries for the tests
-npm start, the solution will be shown in console logs
+  Run npm install to install the required libraries for the tests
+  
+  npm start, the solution will be shown in console logs
 
